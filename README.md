@@ -9,7 +9,7 @@
 * nfc		-	activate other modules via cell phone nfc capability
 * motion	-	with security and video, alert and or record when motion is detected (PIR or video movement activation)
 * rfid	-	activate other modules via rfid card readers
-* rgb		-	neopixel control (WS2801 or WS2812 rgb chip)
+* rgb		-	neopixel, WS2801 and WS2812 control
 * secure	-	obvious
 * shade	-	control shades for windows
 * switch	-	simple on & off (programmable including options for sunrise & sunset ( which is automatic based on lat/long)

@@ -13,3 +13,4 @@ node_modules
 .bin
 .config
 
+nodemcu-firmware/*.bin

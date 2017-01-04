@@ -12,7 +12,7 @@
 * rgb		-	neopixel control (WS2801 or WS2812 rgb chip)
 * secure	-	obvious
 * shade	-	control shades for windows
-* switch	-	simple on & off (programmable includeing sunrise & sunset options (auto looked up based on lat/long)
+* switch	-	simple on & off (programmable including options for sunrise & sunset ( which is automatic based on lat/long)
 * temp	-	obvious
 * video	-	stream video and control pan/tilt
 * voice	-	alexa like functionality specifically used for this control system

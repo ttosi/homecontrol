@@ -7,7 +7,7 @@
 * kodi	-	control kodi (via json commands); used with voice module
 * lock	-	open and lock doors / windows
 * nfc		-	activate other modules via cell phone nfc capability
-* motion	-	with security and video, alert and or record when motion is detected (PIR or video movement actuation)
+* motion	-	with security and video, alert and or record when motion is detected (PIR or video movement activation)
 * rfid	-	activate other modules via rfid card readers
 * rgb		-	neopixel control (WS2801 or WS2812 rgb chip)
 * secure	-	obvious

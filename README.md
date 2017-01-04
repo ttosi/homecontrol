@@ -1,5 +1,9 @@
 # homecontrol
 
+* test
+* tes 2
+
+
 baby	-	a baby monitor
 dim		-	dimmer control for incandescent lights
 garage	-	controls garage door opener

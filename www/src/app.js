@@ -16,7 +16,7 @@ require.config({
 		knockout: 'lib/knockout',
 		mapping: 'lib/knockout.mapping',
 		pager: 'lib/pager',
-		text: 'lib/require-text''
+		text: 'lib/require-text'
 	},
 	deps: [
 		'knockout',
@@ -42,7 +42,4 @@ require([
 
 		pager.Href.hash = '#!/';
 		pager.start();
-	
-		document.addEventListener("deviceready", onDeviceReady, false);
-
 	});
